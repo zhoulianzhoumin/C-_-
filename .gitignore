@@ -1,5 +1,3 @@
-build_*/
-lib/
 *.exe
 *.ii
 *.s
